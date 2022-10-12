@@ -1,0 +1,27 @@
+head{
+    background-color: antiquewhite;
+}
+body{
+    background-color: antiquewhite;
+    
+}
+.Judul {
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+.gambar {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.isi{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: antiquewhite;
+}
